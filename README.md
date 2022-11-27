@@ -1,6 +1,7 @@
 # Kickstarter_Analysis
 ## Overview of project:
 - This analysis was conducted for Louise to ensure the success of her Crowdfunding play Fever. The analysis was based on real-world data and trends of comping to provide her with analysis feedback to assure she achieved her goals. 
+- Using Import data into a table for analysis, Apply filters, conditional formatting, and formulas, generate and interpret pivot tables, Calculate summary statistics such as measures of central tendency, standard deviation, and variance, Characterize data to identify outliers in datasets, Perform an Excel analysis with visualizations, and Interpret common Excel visualizations.
 
 ## Analysis and Challenges:
 - we saw over two billion dollars have been raised using the massively successful crowdfunding services but not every project has fund success over three hundred projects launched on Kickstarter only one-third worked through the funding process with a positive outcome.
